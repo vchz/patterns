@@ -1,4 +1,4 @@
-Repository associated with a 5 hours hands-on python course taught at the Biophysics Summer School on "Pattern formation and developmental processes" in Rethymno, Greece, 7-14 July, 2025.\
+Repository associated with a 5 hours hands-on python course taught at the Biophysics Summer School on "Pattern formation and developmental processes" in Rethymno, Greece, 7-14 July, 2025.
 
 **Tutorial 1**: simulation and mathematical analysis of the Activation Depletion Substrate Model.\
 **Tutorial 2**: contains an implementation of Stochastic Force Inference with the PASTIS criterion, introduced in Frishman A, Ronceray P (2020) Learning Force Fields from Stochastic Trajectories, *Physical Review X* and Gerardos A, Ronceray P (2025) Principled model selection for stochastic dynamics, *arXiv preprint arXiv:2501.10339*.\
